@@ -1,4 +1,4 @@
-# The-Mystery Text
+# The Mystery Text
 A MYSTERY text..?
 
 # Note:
